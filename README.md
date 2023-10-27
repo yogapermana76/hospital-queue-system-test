@@ -12,7 +12,7 @@ Hospital Patient Queue System is a simple prototype of a patient queue managemen
 
 ## Requirements
 
-- Node.js installed on your computer.
+- Node.js or Go installed on your computer
 
 ## Installation
 
@@ -30,9 +30,17 @@ Hospital Patient Queue System is a simple prototype of a patient queue managemen
 ## Usage
 
 1. To start the application, run the following command:
+
    ```shell
-   cd hospital-queue-system-test
+   node queue-system.js
    ```
+
+   or
+
+   ```shell
+   go run queue-system.go
+   ```
+
    Follow the prompts and use the commands described below to manage the patient queue.
 
 ## Command
